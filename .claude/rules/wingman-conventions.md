@@ -1,1 +1,1 @@
-@../../.wingman/config/CONSTITUTION.md
+@../../.wingman/config/wingman-conventions.md
