@@ -106,8 +106,8 @@
   },
   "governanceFiles": {
     "constitution": {
-      "path": ".wingman/config/CONSTITUTION.md",
-      "description": "Project constitution",
+      "path": ".wingman/config/wingman-conventions.md",
+      "description": "Wingman project conventions",
       "required": false
     },
     "roadmap": {
